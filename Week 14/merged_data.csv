@@ -1,0 +1,7 @@
+﻿Category,Sub-Category,Sales,Profit,Discount,Rating,Sales Grade
+Electronics,Phone,200,20,10,4.5,Medium
+Electronics,Laptop,300,50,10,4.5,High
+Furniture,Chair,150,15,15,4.0,Medium
+Furniture,Chair,150,15,20,3.5,Medium
+Furniture,Table,400,40,15,4.0,High
+Furniture,Table,400,40,20,3.5,High
